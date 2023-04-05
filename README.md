@@ -26,5 +26,6 @@
 
 * 7.[滚动的数字](./ScrollNums)
 
+* 8.[滑动的线条](./HoverLine)
 
 
