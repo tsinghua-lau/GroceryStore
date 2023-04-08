@@ -30,3 +30,8 @@
 
 ![line](https://user-images.githubusercontent.com/43164478/230105442-53952ae9-1272-40e7-8032-5d0ecbe89a22.gif)
 
+* 9.[神奇的头像](./Avatar)
+
+![头像](https://user-images.githubusercontent.com/43164478/230728727-faaf0d89-874b-4a53-b0e6-fe7af090a5bf.gif)
+
+
